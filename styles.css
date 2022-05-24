@@ -168,10 +168,8 @@ header{
 .sm-link{
     color: #929FC5;
     position: auto;
-    width: 3rem;
-    height: 3rem;
-    border: 1px solid #929FC5;
-    border-radius: 50%;
+    width: 2rem;
+    height: 2rem;
     display: flex;
     margin-right: 2.5rem;
 }
@@ -180,10 +178,10 @@ header{
     margin: 0.65rem;
 }
 
-.sm-link:hover{
+/* .sm-link:hover{
     background-image: linear-gradient(to right, #A971FF, #00F0FF);
     color: #fff;
-}
+} */
 
 .image-group{
     text-align: center;
